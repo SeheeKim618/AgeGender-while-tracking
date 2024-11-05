@@ -5,4 +5,4 @@ This is the official code of paper "Accuracy improvement of deep learning gender
 
 This repo contains a PyTorch implementation of gender classification and is developed by Sehee Kim.
 
-![Illustrating the architecture of the our's model](/figures/figure_arch.png)
+![Illustrating the architecture of the our's model](/figures/figure.png)
